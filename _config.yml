@@ -5,7 +5,7 @@ title: SOLID.
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 analytics: UA-50546869-2
 baseurl: "/whatsoldme" #important: start with /
-url: "http://whatsoldme.xyz"
+url: "http://dmflowerr.github.io"
 
 # Build settings
 markdown: kramdown
@@ -75,7 +75,7 @@ members:
     img: team03.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
+        url: maeflowerr@gmail.com
       - title: twitter
         url: http://twitter.com/handle
   - name: Martin Blunt
